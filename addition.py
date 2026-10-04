@@ -6,3 +6,5 @@ d = a-b
 print(d)
 e = b*a
 print(e)
+f = a%2
+print(f)
